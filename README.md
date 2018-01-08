@@ -4,6 +4,11 @@ A new scanner for ip/domain/port with high rate. <br>一个高速、小型的web
 
 Usage
 ---
+            _______
+    .-----.|   |   |.---.-.-----.
+    |  .  ||       ||  .  |  .  |
+    |   __||__|_|__||___._|   __|      v1.0.5
+    |__|                  |__|         www.xusec.com
             -h,--help       [help]
             -i,--ip         [scan single ip, txt file, ip-255]
             -p,--port       [single port to scan]
