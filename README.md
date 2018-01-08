@@ -4,10 +4,9 @@ A new scanner for ip/domain/port with high rate. <br>一个高速、小型的web
 
 Usage
 ---
-pMap.py [options]
-<br>            -h,--help       [help]
-<br>            -i,--ip         [scan single ip, txt file, ip-255]
-<br>            -p,--port       [single port to scan]
-<br>            null            [default port to scan]
-<br>            -c              [scan ip C part]
-<br>            -t (-f)         [scan domain file web title (from dict)]
+            -h,--help       [help]
+            -i,--ip         [scan single ip, txt file, ip-255]
+            -p,--port       [single port to scan]
+            null            [default port to scan]
+            -c              [scan ip C part]
+            -t (-f)         [scan domain file web title (from dict)]
