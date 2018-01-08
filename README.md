@@ -9,6 +9,8 @@ Usage
     |  .  ||       ||  .  |  .  |
     |   __||__|_|__||___._|   __|      v1.0.5
     |__|                  |__|         www.xusec.com
+    
+    pMap.py [options]
             -h,--help       [help]
             -i,--ip         [scan single ip, txt file, ip-255]
             -p,--port       [single port to scan]
