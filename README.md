@@ -7,7 +7,7 @@ Usage
 pMap.py [options]
 <br>            -h,--help       [help]
 <br>            -i,--ip         [scan single ip, txt file, ip-255]
-<br>           -p,--port       [single port to scan]
+<br>            -p,--port       [single port to scan]
 <br>            null            [default port to scan]
 <br>            -c              [scan ip C part]
 <br>            -t (-f)         [scan domain file web title (from dict)]
